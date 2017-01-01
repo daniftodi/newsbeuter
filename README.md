@@ -13,3 +13,4 @@ Newsbeuter config&urls
 
 3. newsbeuter
 
+![Neuwsbeuter](https://raw.githubusercontent.com/daniftodi/newsbeuter/master/newsbeuter.png)
