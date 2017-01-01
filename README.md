@@ -17,7 +17,7 @@ Newsbeuter config&urls
 
 4. cd ~/.newsbeuter && make clean
 
-# Screenshot
+# Screenshots
 
 ![Neuwsbeuter](https://raw.githubusercontent.com/daniftodi/newsbeuter/master/newsbeuter.png)
 ![Neuwsbeuter read source](https://raw.githubusercontent.com/daniftodi/newsbeuter/master/read_source.png)
