@@ -13,4 +13,8 @@ Newsbeuter config&urls
 
 3. newsbeuter
 
+# Remove dead urls
+
+4. cd ~/.newsbeuter && make clean
+
 ![Neuwsbeuter](https://raw.githubusercontent.com/daniftodi/newsbeuter/master/newsbeuter.png)
